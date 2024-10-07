@@ -7,6 +7,7 @@ class ModelOnboarding {
   final String counterText;
   final Color bgcolor;
 
+  // Constructor for model onboarding
   ModelOnboarding({
     required this.image,
     required this.title,
